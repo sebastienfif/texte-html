@@ -1,0 +1,95 @@
+#bloc_page
+{
+	width: 900px;
+	margin: auto;
+} 
+
+header
+{
+	
+	justify-content: space-between;
+
+}
+
+#titre_principal
+{
+	
+	flex-direction: column;
+}
+
+#logo
+{
+	display: flex;
+	flex-direction: row;
+
+}
+
+#logo ing
+{
+	width: 60px
+	height: 70px;
+
+header h1
+{
+	font-size: 2,5em;
+	font-weight: normal;
+	margin: 0 0 0 10px
+}
+
+header h2
+{
+	font-family: Dayrom, serif;
+	font-size: 1.1em;
+	margin-top: 0px;
+	font-weight: normal;
+}
+
+
+nav 
+{
+	position: absolute;
+	
+}
+	
+
+
+nav li 
+{
+	margin-right: 15px
+}
+nav a 
+{
+	front-size: 1.3em;
+	color: #181818;
+}
+
+#footer
+{
+	align-content: flex-end;
+
+}
+
+footer p, h1
+{
+	font-size: 0,8em;
+}
+
+#propos
+{
+	width: 28%
+}
+
+#hebergement
+{
+	width: 35%
+}
+
+#aide
+{
+	width: 31%
+}
+
+
+	
+
+
